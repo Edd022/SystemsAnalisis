@@ -1,6 +1,8 @@
 
 # Systems Analysis – Kaggle Competition: Drawing with LLMs
 
+[Workshop 1 — System Design](https://github.com/Edd022/SystemsAnalisis/blob/main/Workshop_1/Workshop_No__1_Kagle_Systems_Analysis_of_Drawing_with_LLMs.pdf)
+
 ## Competition Overview
 
 This analysis is based on the Kaggle competition [Drawing with LLMs](https://www.kaggle.com/competitions/drawing-with-llms/overview). The competition challenges participants to develop generative AI models capable of creating SVG drawings that visually represent a wide range of concepts. This task explores the intersection of natural language understanding and image generation, aiming to improve how large language models interpret and illustrate text-based prompts.
