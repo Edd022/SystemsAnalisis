@@ -31,5 +31,5 @@ This structured design process aimed to build a robust and well-engineered syste
 
 The complete System Design Document (SDD) in PDF format, detailing the architecture, design decisions, component descriptions, and implementation plan for the "Drawing with LLMs" competition, is available at the following link. This document is located in the `Workshop_2_Design` folder of this repository, as per the workshop requirements.
 
-**[📄 View the Final System Design Document (PDF)](https://drive.google.com/file/d/1ZcB0KJN0WTx4BUn_PVpMV9DmY68uEtFY/view?usp=sharing)** 
+**[📄 View the Final System Design Document (PDF)](https://drive.google.com/file/d/1ZcB0KJN0WTx4BUn_PVpMV9DmY68uEtFY/view?usp=sharing)**.
 
