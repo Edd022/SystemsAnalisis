@@ -57,3 +57,4 @@ This workshop continued the application of systems thinking principles:
 ## Final Simulation Report
 
 The full simulation report, which includes scenario definitions, system behavior observations, and recommendations for future improvements, can be accessed below:
+[Workshop_3 Workshop_3_Kaggle Competition.pdf](https://github.com/Edd022/SystemsAnalisis/blob/main/Workshop_3/Workshop_3%20Workshop_3_Kaggle%20Competition.pdf)
