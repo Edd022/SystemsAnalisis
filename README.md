@@ -39,6 +39,16 @@ Based on the findings from Workshop 1, this phase outlines a system design that 
   - Recommended tools: Python, Hugging Face Transformers, SVG libraries.
   - Preliminary implementation plan and design pattern references.
 
+### Workshop 3 — Simulation and Evaluation
+
+This phase tests the proposed system design under simulated conditions:
+
+- **Simulation Focus:** Evaluating how the system behaves with varied and complex prompts, edge cases, and performance load.
+- **Key Scenarios:** Functionality, robustness, quality assurance, scalability, and performance.
+- **System Behavior:** The modular design allowed for stable behavior even when unexpected or malformed inputs were introduced.
+- **LLM Sensitivity:** Confirmed the system's chaotic behavior with minimal changes to prompts, as predicted in previous workshops.
+- **Results:** Most SVGs were valid and generated quickly. Some visual inconsistencies highlight areas for future improvement.
+
 ### Catch-up
 
 A consolidation document that integrates the work from Workshop 1 and Workshop 2. It provides a holistic view of both the system analysis and design, reinforcing the systemic approach and design rationale.
